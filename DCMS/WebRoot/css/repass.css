@@ -1,0 +1,42 @@
+h1{
+	margin-top: 0;
+	color: #fff;
+	font-size: 44px;
+	width: 1140px;
+}
+
+table{
+	margin-top: 80px;
+}
+
+table tr td:first-child{
+	text-align: right;
+	font-size: 20px;
+}
+
+input,textarea{
+	border: 1px solid #016FCB;
+	transition: box-shadow ease-in-out .5s;
+	text-indent: 4px;
+	vertical-align: middle;
+}
+
+input:focus,textarea:focus{
+	outline: none;
+	box-shadow: 0px 0px 5px 0px #016FCB;
+}
+
+textarea{
+	width: 149px;
+	height: 100px;
+}
+
+#submit{
+	width: 76px;
+	height: 30px;
+	line-height: 20px;
+	cursor: pointer;
+	background-color: #4B0082;
+	color: #fff;
+}
+	

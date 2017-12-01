@@ -1,0 +1,31 @@
+body{
+	background: url(../img/background.jpg) 0 0 no-repeat;
+	background-size: 100%;
+	color: #4B0082;
+}
+h1{
+	color: #fff;
+}
+table{
+	border: 1px solid royalblue;
+	box-shadow: 0px 0px 4px 1px royalblue;
+	position: absolute;
+	left: 40.5%;
+	top: -300px;
+}
+
+input{
+	border: 1px solid royalblue;
+	transition: box-shadow ease-in-out .5s;
+	text-indent: 4px;
+}
+
+input:focus{
+	outline: none;
+	box-shadow: 0px 0px 5px 0px darkorange;
+}
+
+.btn{
+	background-color: indigo;
+}
+

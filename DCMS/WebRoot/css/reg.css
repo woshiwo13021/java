@@ -1,0 +1,31 @@
+
+body{
+	background-color: brown;
+	color: red;
+}
+
+h1{
+	color: #fff;
+}
+
+input{
+	border: 1px solid brown;
+	transition: box-shadow ease-in-out .5s;
+}
+
+input:focus{
+	outline: none;
+	box-shadow: 0px 0px 4px 0px brown;
+}
+
+table{
+	border-radius: 5px;
+	box-shadow: 0px 0px 4px 0px #fff;
+	background-color: #fff;
+}
+
+.btn{
+	background-color: brown;
+	color: #fff;
+	border-radius: 10px;
+}

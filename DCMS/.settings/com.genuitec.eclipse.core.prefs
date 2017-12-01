@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/js/jquery.min.js,WebRoot/js/jquery.validate.min.js,WebRoot/js/cart.js,WebRoot/whx.jsp,WebRoot/js/common.js,WebRoot/register.jsp,WebRoot/js/supersized.3.2.7.min.js,WebRoot/js/login.js,WebRoot/index.jsp
+validator.Unchecked=

@@ -1,0 +1,48 @@
+h1{
+	margin-top: 0;
+	color: #fff;
+	font-size: 44px;
+	width: 1140px;
+}
+
+#box{
+	width: 980px;
+	margin: 20px auto;
+}
+
+#box .comlist{
+	width: 212px;
+	text-align: left;
+	padding: 2px;
+	float: left;
+	margin: 13px;
+}
+
+#box .comlist a{
+	display: inline-block;
+	width: 100px;
+	height: 30px;
+	background-color: #A52A2A;
+	text-align: center;
+	line-height: 30px;
+	border-radius: 5px;
+	margin-top: 5px;
+	color: #fff;
+}
+
+#box .comlist h2,p{
+	text-indent: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
